@@ -1,0 +1,112 @@
+#nintendo{
+  font-family: 'Ubuntu' !important;
+  color: Red;
+  padding-left:382px;
+  font-size: 21px;
+}
+
+#body{
+  width:550px;
+  height:180px;
+  background-color:#1F1F1F;
+  border: 30px solid #D9D5D2;
+}
+
+
+
+#buttons-left::before {
+    color: black;
+    content: "+";
+    font-size: 180px;
+    text-shadow: -2px -2px 0 white, 2px -2px 0 white, -2px 2px 0 white, 2px 2px 0 white;
+}
+#buttons-left {
+    margin-left: 10px;
+    margin-top: -10px;
+    position: absolute;
+}
+
+#aCircle {
+	background-color: red;
+    height: 45px;
+    margin-left: 453px;
+    margin-top: 117px;
+    position: absolute;
+    width: 45px;
+	border-radius: 50%;
+}
+#bCircle {
+  background-color: red;
+    height: 45px;
+    margin-left: 383px;
+    margin-top: 117px;
+    position: absolute;
+    width: 45px;
+	border-radius: 50%;
+}
+
+#a {
+    background-color: #d9d5d2;
+    height: 50px;
+    margin-left: 450px;
+    margin-top: 114px;
+    position: absolute;
+    width: 50px;
+}
+#b {
+    background-color: #d9d5d2;
+    height: 50px;
+    margin-left: 380px;
+    margin-top: 114px;
+    position: absolute;
+    width: 50px;
+}
+
+#aLet {
+    color: red;
+    font-size: 14px;
+    height: 50px;
+    margin-left: 487px;
+    margin-top: 148px;
+    position: absolute;
+    width: 50px;
+}
+#bLet {
+    color: red;
+    font-size: 14px;
+    height: 50px;
+    margin-left: 417px;
+    margin-top: 148px;
+    position: absolute;
+    width: 50px;
+}
+
+#middle{
+	height: 43px;
+    margin-left: 200px;
+    margin-top: 118px;
+    position: absolute;
+    width: 110px;
+	background-color: #e4e0dc;
+}
+
+#selectDash{
+	background-color: black;
+    height: 7px;
+    margin-left: 215px;
+    margin-top: 139px;
+    position: absolute;
+    width: 35px;
+	border-radius: 25%;
+}
+
+#startDash{
+	background-color: black;
+    height: 7px;
+    margin-left: 260px;
+    margin-top: 139px;
+    position: absolute;
+    width: 35px;
+	border-radius: 25%;
+}
+
