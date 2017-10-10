@@ -3,5 +3,5 @@ NES Joystick made in pure CSS and HTML
 
 
 
-![](https://github.com/TheAdnan/CSS-Nintendo-Joystick/blob/master/NES-controller.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/41bbcMYflYL.jpg)
 
